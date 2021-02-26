@@ -75,7 +75,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="main-profile-image">
-                                <img src="assets/images/keta3.jpg" alt="">
+                                <img src="assets/images/keta3.JPG" alt="">
                             </div>
                         </div>
                         <div class="col-lg-6  align-self-center">
