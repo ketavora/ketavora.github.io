@@ -89,7 +89,7 @@
                                 <p class="short-info">
                                     With over 1 month of internship experience. I am studying Fine Arts at Seth C.N. College of Fine Arts and later honed my skills through online and internship experience. My skills include Photoshop, CorelDraw, Illustrator.
                                 </p>
-                                <a id="g-p-f-h" class="pagelink mybtn mybtn-bg" href="#portfolio"><span><i
+                                <a id="g-p-f-h" class="pagelink mybtn mybtn-bg" href="assets/images/KETA_VORA Portfolio.pdf"><span><i
 											class="fas fa-briefcase"></i>Portfolio</span></a>
                             </div>
                         </div>
