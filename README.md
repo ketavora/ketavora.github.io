@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Keta Vora - Personal Portfolio </title>
     <!-- favicon -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
     <!-- animate css -->
     <link rel="stylesheet" href="assets/css/animate.css">
     <!-- bootstrap -->
@@ -75,7 +75,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="main-profile-image">
-                                <img src="assets/images/keta3.jpg" alt="">
+                                <img src="assets/images/keta3.JPG" alt="">
                             </div>
                         </div>
                         <div class="col-lg-6  align-self-center">
