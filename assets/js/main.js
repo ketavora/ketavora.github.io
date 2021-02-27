@@ -41,7 +41,7 @@ $(function($) {
         var $typed = $("#typed");
         if ($typed.length > 0) {
             $typed.typed({
-                strings: ["Graphic Design", "Painting", "Sletching"],
+                strings: ["Graphic Design", "Painting", "Sketching"],
                 stringsElement: null,
                 typeSpeed: 70,
                 startDelay: 150,
